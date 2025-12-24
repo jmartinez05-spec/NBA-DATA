@@ -1,12 +1,12 @@
-# NBA Data Analysis
+# NBA All-Time Data Analysis
 
-This project looks at the **Top 50 NBA scorers** and analyzes their points per game using Python and SQL.
+This project analyzes an **all-time NBA player dataset** using Python and SQL.
 
 ## What This Project Does
 
-- Reads NBA data from a CSV file  
-- Shows the top scorers and their stats  
-- Uses SQL queries to get simple insights  
+- Loads an all-time NBA dataset from a CSV file  
+- Shows player stats like total points, games, and positions  
+- Uses SQL queries to explore the data  
 - Helps practice Python and SQL basics
 
 ## Files
@@ -19,5 +19,6 @@ This project looks at the **Top 50 NBA scorers** and analyzes their points per g
 1. Clone the repo:  
    ```bash
    git clone https://github.com/jmartinez05-spec/NBA-DATA.git
+
 
 
